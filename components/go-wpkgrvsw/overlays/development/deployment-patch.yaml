@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-wpkgrvsw:786012a712dfecfbc74382e5439dd2ebdbc298b5@sha256:b73c44f3c6f6c670b0109c9a6c35baf740004ac82b358c894dee6e314ed88d01
+        - image: quay.io/rhtap_qe/go-wpkgrvsw:5688bdf3d8b6da1ee5651880f6a1458959a8002a@sha256:550c42681f206f9f19b4ba774e77b358f0ca556af8d53ef7b23def67d40bbf20
           name: container-image
